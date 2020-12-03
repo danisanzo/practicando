@@ -1,2 +1,3 @@
 Estamos aprendiendo Git
 pero mucho y muy rápido
+a ratos
